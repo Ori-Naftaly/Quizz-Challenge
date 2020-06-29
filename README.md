@@ -3,7 +3,7 @@ Quizz Challenge
 
 A fun Quizz application with 5 different random questions that keeps track of your score.
 
-## Project Screen Shot(s)
+## Project Screen Shot
 ![Alt Text](https://i.imgur.com/xN4kRiC.png)
 
 ## Installation and Setup Instructions
