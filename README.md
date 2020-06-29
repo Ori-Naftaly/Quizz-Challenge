@@ -4,11 +4,9 @@ Quizz Challenge
 A fun Quizz application with 5 different random questions that keeps track of your score.
 
 ## Project Screen Shot(s)
-Example:
 ![Alt Text](https://i.imgur.com/xN4kRiC.png)
 
 ## Installation and Setup Instructions
-Example:
 Clone down this repository. You will need node and npm installed globally on your machine.
 
 Installation:
