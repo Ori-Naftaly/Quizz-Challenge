@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Ori-Naftaly/Quizz-Challenge/static/css/main.f369ae53.chunk.css",
-    "main.js": "/Ori-Naftaly/Quizz-Challenge/static/js/main.aea81ad4.chunk.js",
-    "main.js.map": "/Ori-Naftaly/Quizz-Challenge/static/js/main.aea81ad4.chunk.js.map",
-    "runtime-main.js": "/Ori-Naftaly/Quizz-Challenge/static/js/runtime-main.e216789c.js",
-    "runtime-main.js.map": "/Ori-Naftaly/Quizz-Challenge/static/js/runtime-main.e216789c.js.map",
-    "static/js/2.96e21b58.chunk.js": "/Ori-Naftaly/Quizz-Challenge/static/js/2.96e21b58.chunk.js",
-    "static/js/2.96e21b58.chunk.js.map": "/Ori-Naftaly/Quizz-Challenge/static/js/2.96e21b58.chunk.js.map",
-    "index.html": "/Ori-Naftaly/Quizz-Challenge/index.html",
-    "precache-manifest.433d83033b12a3cfb10a4cb2dbf4d68c.js": "/Ori-Naftaly/Quizz-Challenge/precache-manifest.433d83033b12a3cfb10a4cb2dbf4d68c.js",
-    "service-worker.js": "/Ori-Naftaly/Quizz-Challenge/service-worker.js",
-    "static/css/main.f369ae53.chunk.css.map": "/Ori-Naftaly/Quizz-Challenge/static/css/main.f369ae53.chunk.css.map",
-    "static/js/2.96e21b58.chunk.js.LICENSE.txt": "/Ori-Naftaly/Quizz-Challenge/static/js/2.96e21b58.chunk.js.LICENSE.txt"
+    "main.css": "/Quizz-Challenge/static/css/main.f369ae53.chunk.css",
+    "main.js": "/Quizz-Challenge/static/js/main.aea81ad4.chunk.js",
+    "main.js.map": "/Quizz-Challenge/static/js/main.aea81ad4.chunk.js.map",
+    "runtime-main.js": "/Quizz-Challenge/static/js/runtime-main.e85c6db4.js",
+    "runtime-main.js.map": "/Quizz-Challenge/static/js/runtime-main.e85c6db4.js.map",
+    "static/js/2.96e21b58.chunk.js": "/Quizz-Challenge/static/js/2.96e21b58.chunk.js",
+    "static/js/2.96e21b58.chunk.js.map": "/Quizz-Challenge/static/js/2.96e21b58.chunk.js.map",
+    "index.html": "/Quizz-Challenge/index.html",
+    "precache-manifest.55ce2f9746d9a08b6f09049c0a09d91e.js": "/Quizz-Challenge/precache-manifest.55ce2f9746d9a08b6f09049c0a09d91e.js",
+    "service-worker.js": "/Quizz-Challenge/service-worker.js",
+    "static/css/main.f369ae53.chunk.css.map": "/Quizz-Challenge/static/css/main.f369ae53.chunk.css.map",
+    "static/js/2.96e21b58.chunk.js.LICENSE.txt": "/Quizz-Challenge/static/js/2.96e21b58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e216789c.js",
+    "static/js/runtime-main.e85c6db4.js",
     "static/js/2.96e21b58.chunk.js",
     "static/css/main.f369ae53.chunk.css",
     "static/js/main.aea81ad4.chunk.js"
